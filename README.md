@@ -53,18 +53,6 @@ Simon-Says-Game
 
 ---
 
-## 📸 Game Preview
-
-_Add a screenshot of your game here_
-
-Example:
-
-```
-![Game Screenshot](screenshot.png)
-```
-
----
-
 ## 💡 Future Improvements
 
 - Add sound effects for buttons  
